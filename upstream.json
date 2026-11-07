@@ -31,7 +31,25 @@
         "text": "แยกการอ่านและเขียน DWG ไปทำงานในโปรเซสลูก",
         "source": "https://github.com/storytold/cadcraft/pull/2673"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.18.0",
+        "publishedAt": "2026-11-06T20:21:13Z",
+        "url": "https://github.com/storytold/cadcraft/releases/tag/v0.18.0"
+      },
+      {
+        "tag": "v0.17.1",
+        "publishedAt": "2026-11-05T01:24:49Z",
+        "url": "https://github.com/storytold/cadcraft/releases/tag/v0.17.1"
+      },
+      {
+        "tag": "v0.17.0",
+        "publishedAt": "2026-11-03T00:54:01Z",
+        "url": "https://github.com/storytold/cadcraft/releases/tag/v0.17.0"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#cadcraft"
+  "versionLog": "https://github.com/tapanapon-com/cadcraft-th/blob/main/docs/version-log.md"
 }
