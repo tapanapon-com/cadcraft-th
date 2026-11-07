@@ -1,0 +1,37 @@
+{
+  "id": "cadcraft",
+  "name": "CADCraft",
+  "repository": "https://github.com/tapanapon-com/cadcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/cadcraft",
+    "releaseTag": "v0.18.0",
+    "releaseUrl": "https://github.com/storytold/cadcraft/releases/tag/v0.18.0",
+    "publishedAt": "2026-11-06T20:21:13Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "865fa9afb047e6a5053b8f51c3ad4feef90804d2",
+    "sourceVersion": "0.17.0",
+    "macDownload": "https://github.com/storytold/cadcraft/releases/download/v0.18.0/cadcraft-0.18.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/cadcraft/releases/download/v0.18.0/cadcraft-0.18.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/cadcraft/releases/download/v0.18.0/cadcraft-0.18.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/cadcraft/releases/download/v0.18.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "แสดงเมื่อ Autosave ล้มเหลว และกู้งานหลังแอปขัดข้องในการเปิดครั้งแรก",
+        "source": "https://github.com/storytold/cadcraft/pull/2670"
+      },
+      {
+        "text": "เมื่อส่วนติดต่อเกิด panic ให้บันทึกงานและรายงานเหตุการณ์",
+        "source": "https://github.com/storytold/cadcraft/pull/2671"
+      },
+      {
+        "text": "แยกการอ่านและเขียน DWG ไปทำงานในโปรเซสลูก",
+        "source": "https://github.com/storytold/cadcraft/pull/2673"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#cadcraft"
+}
